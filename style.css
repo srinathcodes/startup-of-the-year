@@ -21,8 +21,12 @@ hr {
   max-width: 65px;
 }
 
+.logoimage {
+	max-width: 18rem;
+}
+
 .buffer {
-	height: 12rem;
+	height: 20rem;
 }
 
 .btn {
