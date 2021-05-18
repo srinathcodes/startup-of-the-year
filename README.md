@@ -1,2 +1,2 @@
-# startup-of-the-year
-https://srinathcodes.github.io/startup-of-the-year/
+# startup-of-the-year : trescodes
+https://srinathcodes.github.io/trescodes/
